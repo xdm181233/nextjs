@@ -28,7 +28,7 @@ const components = {
   Head,
 };
 
-export default function PostPage({
+// export default function PostPage({
   source,
   frontMatter,
   prevPost,
